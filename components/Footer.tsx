@@ -23,7 +23,7 @@ const Footer = () => {
         <p className="text-white-200 md:mt-10 mt-5 text-center text-lg">
           Reach out to me today
         </p>
-        <a href="poberezhny003@gmail.com">
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=poberezhny003@gmail.com" target="_blank">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
